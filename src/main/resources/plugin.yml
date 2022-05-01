@@ -1,4 +1,4 @@
-name: Rail Fire
+name: Rail-Fire
 version: '${version}'
 main: craftschemers.railfire.RailFirePlugin
 api-version: 1.18
