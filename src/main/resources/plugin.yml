@@ -1,0 +1,5 @@
+name: Rail Fire
+version: '${version}'
+main: craftschemers.railfire.RailFirePlugin
+api-version: 1.18
+description: Rail Fire Minigame
